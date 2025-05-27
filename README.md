@@ -23,7 +23,7 @@ Este projeto implementa um sistema inteligente de controle de entrada e saída d
 - LED RGB (pinos 11, 12 e 13)
 - Buzzer (pino 10)
 - Botão de entrada (pino 5)
-- Botão de saída (pino 6 - BOOTSEL)
+- Botão de saída (pino 6)
 - Botão de reset (pino 22 - joystick)
 - Resistores de pull-up nos botões (ativados via software)
 
