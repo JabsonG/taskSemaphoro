@@ -38,7 +38,7 @@ Este projeto implementa um sistema inteligente de controle de entrada e saída d
 | LED Verde     | GP11         |
 | Buzzer        | GP10         |
 | Botão Entrada | GP5          |
-| Botão Saída   | GP6 (BOOTSEL)|
+| Botão Saída   | GP6          |
 | Botão Reset   | GP22         |
 
 ## Como Funciona
